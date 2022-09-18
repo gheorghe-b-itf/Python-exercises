@@ -44,3 +44,5 @@ elif optiune == 2:
     print('alege limba engleza')
 else:
     print('Optiune invalida')
+
+    #asd
